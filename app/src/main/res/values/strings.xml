@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HYD_36HR_NEWS</string>
+    <string name="tab_news">新闻</string>
+    <string name="tab_equity">股权投资</string>
+    <string name="tab_find">发现</string>
+    <string name="tab_my">我的</string>
+    <string name="tag">深度</string>
+</resources>

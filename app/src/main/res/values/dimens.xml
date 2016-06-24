@@ -1,0 +1,14 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="tab_RadioGroup_height">60dp</dimen>
+    <dimen name="welcome_log">25dp</dimen>
+    <dimen name="item_news_titlesiez">20sp</dimen>
+    <dimen name="item_news_normalsiez">12sp</dimen>
+    <dimen name="category_textsize">16sp</dimen>
+    <dimen name="fragment_ui_margin">10dp</dimen>
+    <dimen name="normal_list_height">120dp</dimen>
+    <dimen name="middle_height">100dp</dimen>
+    <dimen name="small_margin">20dp</dimen>
+</resources>
